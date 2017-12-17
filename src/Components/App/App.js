@@ -29,6 +29,18 @@ class App extends Component {
             };
         }
 
+    this.addTrack = this.addTrack.bind(this);
+
+
+    addTrack(track) {
+        let tracks = this.state.playlistTracks;
+        if (!tracks.includes(track)) {
+            tracks.push(track);
+
+            this.setState({playlistTracks: track});
+        }
+    }
+
   render() {
     return (
         <div>
