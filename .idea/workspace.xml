@@ -21,13 +21,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="73">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
                 <element signature="e#1#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchBar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding>
+                <element signature="e#1#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,7 +48,7 @@
       <file leaf-file-name="Playlist.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/Playlist/Playlist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
+            <state relative-caret-position="-150">
               <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -57,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Spotify.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Spotify.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/util/Spotify.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            <state relative-caret-position="152">
+              <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -83,9 +95,16 @@
     <findStrings>
       <find>favicon</find>
       <find>bind</find>
-      <find>remov</find>
       <find>window.history</find>
+      <find>api.spotif</find>
+      <find>spotify.com/v1/me</find>
+      <find>state</find>
+      <find>bearer</find>
+      <find>remov</find>
+      <find>searchResults</find>
       <find>search</find>
+      <find>spotify.search</find>
+      <find>searchresults</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,12 +122,12 @@
         <option value="$PROJECT_DIR$/src/Components/TrackList/TrackList.css" />
         <option value="$PROJECT_DIR$/src/Components/Track/Track.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/Components/App/App.js" />
         <option value="$PROJECT_DIR$/src/Components/Playlist/Playlist.js" />
         <option value="$PROJECT_DIR$/src/Components/Track/Track.js" />
         <option value="$PROJECT_DIR$/src/Components/TrackList/TrackList.js" />
         <option value="$PROJECT_DIR$/src/Components/SearchResults/SearchResults.js" />
         <option value="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/src/Components/App/App.js" />
         <option value="$PROJECT_DIR$/src/util/Spotify.js" />
       </list>
     </option>
@@ -123,10 +142,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="707" />
-    <option name="y" value="38" />
-    <option name="width" value="658" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="627" />
+    <option name="y" value="23" />
+    <option name="width" value="807" />
     <option name="height" value="781" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -150,7 +169,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="spo&#9;FILE&#9;file:///Users/joshua/React/jammming/src/util/Spotify.js&#10;playli&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Playlist/Playlist.js&#10;spotif&#9;FILE&#9;file:///Users/joshua/React/jammming/src/util/Spotify.js&#10;search&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchb&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.js&#10;track.js&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.js&#10;searchbar&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.js&#10;playlist&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Playlist/Playlist.js&#10;searchres&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;track.css&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.css&#10;track&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.js&#10;tracklist&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/TrackList/TrackList.js&#10;searchr&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchresu&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchbar.css&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.css&#10;app.js&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/App/App.js" />
+    <property name="SearchEverywhereHistoryKey" value="searchba&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.js&#10;spo&#9;FILE&#9;file:///Users/joshua/React/jammming/src/util/Spotify.js&#10;playli&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Playlist/Playlist.js&#10;spotif&#9;FILE&#9;file:///Users/joshua/React/jammming/src/util/Spotify.js&#10;search&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchb&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.js&#10;track.js&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.js&#10;searchbar&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.js&#10;playlist&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Playlist/Playlist.js&#10;searchres&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;track.css&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.css&#10;track&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/Track/Track.js&#10;tracklist&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/TrackList/TrackList.js&#10;searchr&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchresu&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchResults/SearchResults.js&#10;searchbar.css&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/SearchBar/SearchBar.css&#10;app.js&#9;FILE&#9;file:///Users/joshua/React/jammming/src/Components/App/App.js" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -183,15 +202,15 @@
       <option name="presentableId" value="Default" />
       <updated>1513211851260</updated>
       <workItem from="1513211852454" duration="14735000" />
-      <workItem from="1513343482975" duration="5519000" />
+      <workItem from="1513343482975" duration="14761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20254000" />
+    <option name="totallyTimeSpent" value="29496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="707" y="38" width="658" height="781" extended-state="1" />
+    <frame x="627" y="23" width="807" height="781" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2485955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -323,6 +342,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -428,19 +448,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#1#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Playlist/Playlist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
+        <state relative-caret-position="-150">
           <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -448,21 +458,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/util/Spotify.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="73">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="e#1#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/Spotify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
